@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hey hi! Thanks for visiting my website.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm currently in my last semester at UC Berkeley studying Economics and Data Science. (Where did my time go?) In my time here, I have been involved in a data science club called DataGood, a consulting club called Optimir, and a research team for the Data Science Discovery Program.
+
+I am interested in how we make decisions and how we can improve them with data. Some subjects that fascinate me include behavioral economics, data science, and data engineering. I also interested in how we can leverage technology and self-interested behavior for social good.
+
+When I'm not working you might find me trying out new ice cream from the grocery store, listening to psychology podcasts, or getting to know new people (like you!) - so please feel free to contact me. You can find out more about why I chose to create this website [here](http:/).
