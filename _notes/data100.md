@@ -1,7 +1,8 @@
 ---
-title: 'Notes: DATA100'
-date: 2019-04-18
-permalink: /notes/data100
+title: "Notes: DATA100"
+last_modified_at: 2016-03-09T16:20:02-05:00
+categories:
+  - Notes
 ---
 
 [More information here](http://example2.com)
