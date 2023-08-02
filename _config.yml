@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Akira Chou
+title: About Me
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -79,6 +79,13 @@ footer:
       url: "https://www.linkedin.com/in/akirachou/"
 
 defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""
@@ -90,13 +97,29 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+
+  # _notes
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
+      type: notes
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid
@@ -104,3 +127,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Collections
+collections:
+  notes:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/

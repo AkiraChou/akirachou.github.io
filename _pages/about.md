@@ -1,9 +1,9 @@
 ---
-permalink: 
+permalink: /
 title: "About"
 ---
 
-Hey hi! Thanks for visiting my website.
+Hey Hi! Thanks for visiting my website.
 
 I'm currently in my last semester at UC Berkeley studying Economics and Data Science. (Where did my time go?) In my time here, I have been involved in a data science club called DataGood, a consulting club called Optimir, and a research team for the Data Science Discovery Program.
 
