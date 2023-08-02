@@ -1,9 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
-collection: projects
-type: "Project"
-permalink: /projects/2014-02-01-talk-2
-date: 2014-02-01
+title: 'Notes: DATA100'
+date: 2019-04-18
+permalink: /notes/data100
 ---
 
 [More information here](http://example2.com)
