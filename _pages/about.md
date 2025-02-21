@@ -5,7 +5,7 @@ title: "About"
 
 Hey Hi! Thanks for visiting my website.
 
-I'm currently in my last semester at UC Berkeley studying Economics and Data Science. (Where did my time go?) In my time here, I have been involved in a data science club called DataGood, a consulting club called Optimir, and a research team for the Data Science Discovery Program.
+I'm currently a Data Scientist at the U.S. Small Business Administration.
 
 I am interested in how we make decisions and how we can improve them with data. Some subjects that fascinate me include behavioral economics, data science, and data engineering. I also interested in how we can leverage technology and self-interested behavior for social good.
 
