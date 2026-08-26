@@ -1,9 +1,0 @@
----
-title: "Amazon Project"
-collection: projects
-permalink: /projects/amazon
-date: 2026-08
----
-This data engineering internship delivered two initiatives: a production payment datamart that unifies digital-order and payment data into a validated, self-service source of truth, preserving retries, decline codes, split-tender payments, and authoritative settlement amounts; and an AI-assisted DFRAME onboarding workflow that generates compliant registration YAML and standardized feature descriptions. I strengthened skills in advanced SQL, Amazon Redshift, Datanet/BDT pipelines, Maestro/CDK, data lineage and validation, Python, Kiro CLI agents, Amazon Bedrock, IAM, APIs, Lambda-style registration workflows, and production testing. The work replaced fragile manual joins, unlocked payment-health metrics such as purchase success and initial-decline rates, achieved a 98.55% match rate for eligible paid successful orders, handled a 4 TB backfill safely, and made feature registration and discovery faster, more consistent, and easier to scale.
-
-Project Link: https://docs.google.com/presentation/d/1VrDd6cWCjtlh6Xwp3bloF9GKwP7X-S27/edit?usp=sharing&ouid=103165629584790498823&rtpof=true&sd=true
