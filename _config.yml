@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Akira Chou"
   avatar : "/assets/images/headshot.jpeg"
-  bio    : "Data Sci + Econ"
+  bio    : "CS + DS + Econ"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
