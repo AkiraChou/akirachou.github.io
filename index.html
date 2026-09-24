@@ -19,25 +19,6 @@
       padding-bottom: env(safe-area-inset-bottom, 0px);
     }
 
-    @media (prefers-color-scheme: dark) {
-      :root:not([data-theme="light"]) {
-        --bg: #131313;
-        --panel: #1A1A17;
-        --ink: #F5F2E7;
-        --sub: #9C998E;
-        --hair: #2E2D27;
-        --accent: #2CAA6D;
-      }
-    }
-
-    :root[data-theme="dark"] {
-      --bg: #131313;
-      --panel: #1A1A17;
-      --ink: #F5F2E7;
-      --sub: #9C998E;
-      --hair: #2E2D27;
-      --accent: #2CAA6D;
-    }
 
     *, *::before, *::after { box-sizing: inherit; margin: 0; padding: 0; }
     html { scroll-padding-top: env(safe-area-inset-top, 0px); background: var(--bg); scroll-behavior: smooth; }
